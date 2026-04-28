@@ -1,0 +1,14 @@
+{
+  "name": "LocalAI",
+  "displayName": "Local AI",
+  "version": "1.0.0",
+  "description": "Offline-first iOS app with a small language model for chat, internet search, and optional cloud LLM integration.",
+  "ios": {
+    "bundleIdentifier": "com.localai.app",
+    "buildNumber": "1"
+  },
+  "android": {
+    "package": "com.localai.app",
+    "versionCode": 1
+  }
+}
